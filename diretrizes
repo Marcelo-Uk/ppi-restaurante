@@ -1,0 +1,64 @@
+HTML
+HyperText Markup Language
+
+Crie um website para exibir informações de um restaurante fictício. O website deve conter três páginas:
+
+    Uma página principal contendo informações sobre o restaurante.
+    Uma página para exibição do cardápio.
+    Uma página de envio de comentários sobre o restaurante.
+
+1. Página "Principal"
+
+A página principal do restaurante deve ser organizada com as seguintes partes:
+
+    Nome do restaurante
+    Logomarca
+    Breve descrição do restaurante
+    Menu de navegação
+    História do restaurante
+    Endereço
+    Rodapé
+
+Obs: o cabeçalho(nome do restaurante e logomarca), menu de navegação e rodapé do site deverão aparecer em todas as páginas.
+
+2. Página "Cardápio"
+
+A página de cardápio deve ser organizada com as seguintes partes:
+
+    Seções separando o cardápio em: entradas, pratos principais, sobremesas e bebidas.
+    Imagem de cada item do cardápio
+    Descrição de cada item
+    Preço do item
+
+3. Página "Envie seu Comentário"
+
+A página para o envio de comentário deve apresentar um formulário para o preenchimento das informações a seguir.
+
+Dados Pessoais:
+
+    Nome (obrigatório)
+    E-mail (obrigatório)
+    Sexo (opcional, M-Masculino / F-Feminino, campo de única seleção)
+
+Identificação do Restaurante:
+
+    Unidade (obrigatório, campo de seleção, escolher qual unidade do restaurante)
+
+Mensagem:
+
+    Mensagem (obrigatório, texto livre de múltiplas linhas)
+
+Botão para submeter o formulário.
+
+
+A atividade deve atender os seguintes requisitos:
+
+    Esta atividade deve ser realizada individualmente e utilizar somente a linguagem HTML5.
+    O site deve ser estruturado adequadamente utilizando os elementos <header>, <nav>, <main>, <footer> e <section>.
+    Utilize elementos HTML adequados para definir qualquer elemento do website.
+    O projeto deve ser organizado a partir de uma pasta raiz.
+    Os arquivos de imagem devem ser colocados em subpasta de nome images.
+    O website deve ser validado utilizando a ferramenta disponível no endereço validator.w3.org. Não deve conter nenhum erro ou warning.
+    As páginas internas devem conter um link para voltar para a página principal.
+    Enviar nesta tarefa o arquivo compactado do website.
+    Observação: Os alunos envolvidos em qualquer tipo de plágio (total ou parcial) terão seus trabalhos anulados e receberão nota zero.
